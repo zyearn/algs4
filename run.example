@@ -1,0 +1,1 @@
+java -cp "./target/algs4-1.0.0.0.jar" SortCompare Insertion InsertionX 1000 1000
